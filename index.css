@@ -1,0 +1,838 @@
+.group-child {
+  object-fit: cover;
+}
+.group-child,
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 628px;
+  height: 682px;
+}
+.aayush-dp-03-removebg-preview-icon {
+  position: absolute;
+  top: 173px;
+  left: 177px;
+  width: 278px;
+  height: 309px;
+  object-fit: cover;
+}
+.aaditya-garg,
+.group-parent {
+  position: absolute;
+  top: 37px;
+  left: 760px;
+  width: 628px;
+  height: 682px;
+}
+.aaditya-garg {
+  left: 129px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 157px;
+  height: 29px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 16px;
+  left: 33px;
+  width: 76px;
+  height: 68px;
+  object-fit: cover;
+}
+.about,
+.home {
+  top: 0;
+  display: inline-block;
+}
+.home {
+  position: absolute;
+  left: 0;
+  color: #13f3a8;
+  width: 59px;
+  height: 22px;
+}
+.about {
+  left: 85px;
+  width: 60px;
+}
+.about,
+.education,
+.skill {
+  position: absolute;
+  height: 22px;
+}
+.education {
+  top: 0;
+  left: 171px;
+  display: inline-block;
+  width: 91px;
+}
+.skill {
+  left: 288px;
+  width: 41px;
+}
+.certificates,
+.projects,
+.skill {
+  top: 0;
+  display: inline-block;
+}
+.projects {
+  position: absolute;
+  left: 355px;
+  width: 77px;
+  height: 22px;
+}
+.certificates {
+  left: 458px;
+  width: 105px;
+}
+.certificates,
+.contact,
+.home-parent {
+  position: absolute;
+  height: 22px;
+}
+.contact {
+  top: 0;
+  left: 589px;
+  display: inline-block;
+  width: 79px;
+}
+.home-parent {
+  top: 32px;
+  left: 730px;
+  width: 668px;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray-200);
+}
+.about-me,
+.contact1,
+.education1,
+.skills,
+.welcome-to-my {
+  position: absolute;
+  top: 693px;
+  left: 82px;
+  display: inline-block;
+  width: 335px;
+  height: 97px;
+}
+.contact1,
+.education1,
+.skills,
+.welcome-to-my {
+  top: 1138px;
+}
+.contact1,
+.skills,
+.welcome-to-my {
+  top: 2072px;
+}
+.contact1,
+.welcome-to-my {
+  top: 2826px;
+  left: 80px;
+  width: 399px;
+}
+.welcome-to-my {
+  top: 0;
+  left: 0;
+  width: 482px;
+  height: 47px;
+}
+.python-developer {
+  margin-block-start: 0;
+  margin-block-end: 16px;
+}
+.front-end-developer-machine {
+  margin: 0;
+}
+.python-developer-container {
+  top: 201px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  width: 658px;
+  height: 89px;
+}
+.contact-me,
+.hello-i-am,
+.python-developer-container {
+  position: absolute;
+  display: inline-block;
+}
+.hello-i-am {
+  top: 56px;
+  left: 0;
+  font-size: var(--font-size-29xl);
+  width: 482px;
+  height: 116px;
+}
+.contact-me {
+  top: 18px;
+  left: 21.5px;
+  width: 162.8px;
+  height: 29px;
+}
+.contact-me-parent,
+.group-item {
+  position: absolute;
+  left: 0;
+  width: 205px;
+  height: 66px;
+}
+.group-item {
+  top: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-turquoise-100);
+  box-sizing: border-box;
+}
+.contact-me-parent {
+  top: 319px;
+  text-align: center;
+}
+.welcome-to-my-portfolio-parent {
+  position: absolute;
+  top: 167px;
+  left: 74px;
+  width: 658px;
+  height: 385px;
+  font-size: var(--font-size-5xl);
+}
+.currently {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.currently-enrolled-in-container {
+  position: absolute;
+  top: 151px;
+  left: 0;
+  display: inline-block;
+  width: 251px;
+  height: 343px;
+}
+.group-inner,
+.rectangle-div {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 36px;
+  height: 687px;
+}
+.rectangle-div {
+  top: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-100);
+  width: 121px;
+  height: 32px;
+}
+.b {
+  position: absolute;
+  top: 7px;
+  left: 11px;
+  display: inline-block;
+  width: 98px;
+  height: 18px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 121px;
+  height: 32px;
+}
+.div,
+.vellore-institute-of {
+  position: absolute;
+  top: 4px;
+  left: 214px;
+  display: inline-block;
+  width: 414px;
+  height: 27px;
+}
+.div {
+  left: 173px;
+  width: 23px;
+}
+.engineering {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  width: 152px;
+}
+.btech-cse,
+.engineering,
+.vellore-tamil-nadu {
+  display: inline-block;
+  height: 27px;
+}
+.btech-cse {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 202px;
+}
+.vellore-tamil-nadu {
+  top: 74px;
+}
+.btech-cse-parent,
+.nd-year-iv,
+.vellore-tamil-nadu {
+  position: absolute;
+  left: 0;
+  width: 351px;
+}
+.nd-year-iv {
+  top: 37px;
+  display: inline-block;
+  height: 27px;
+}
+.btech-cse-parent {
+  top: 53px;
+  height: 101px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.vellore-institute-of-technolog-parent {
+  position: absolute;
+  top: 54px;
+  left: 2px;
+  width: 628px;
+  height: 154px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray-100);
+}
+.group-frame,
+.physics-chemistry {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 630px;
+  height: 208px;
+}
+.physics-chemistry {
+  top: 53px;
+  display: inline-block;
+  width: 308px;
+  height: 27px;
+}
+.career-academy {
+  top: 4px;
+  left: 214px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray-100);
+  width: 414px;
+}
+.career-academy,
+.div1,
+.in-cbse,
+.patiala-punjab,
+.th-class {
+  position: absolute;
+  display: inline-block;
+  height: 27px;
+}
+.div1 {
+  top: 4px;
+  left: 173px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray-100);
+  width: 23px;
+}
+.in-cbse,
+.patiala-punjab,
+.th-class {
+  left: 0;
+}
+.th-class {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  width: 152px;
+}
+.in-cbse,
+.patiala-punjab {
+  top: 127px;
+  width: 351px;
+}
+.in-cbse {
+  top: 90px;
+}
+.physics-chemistry-maths-p-parent {
+  position: absolute;
+  top: 58px;
+  left: 2px;
+  width: 628px;
+  height: 154px;
+}
+.group-parent2,
+.science-maths-cs {
+  position: absolute;
+  top: 246px;
+  left: 0;
+  width: 630px;
+  height: 212px;
+}
+.science-maths-cs {
+  top: 53px;
+  display: inline-block;
+  width: 433px;
+  height: 27px;
+}
+.group-container,
+.group-div,
+.group-parent3 {
+  position: absolute;
+  top: 487px;
+  left: 0;
+  width: 630px;
+  height: 212px;
+}
+.group-container,
+.group-div {
+  top: 0;
+  left: 81px;
+  height: 699px;
+}
+.group-container {
+  left: 418px;
+  width: 711px;
+  font-size: var(--font-size-base);
+}
+.currently-enrolled-in-btech-c-parent,
+.python {
+  position: absolute;
+  top: 1236px;
+  left: 284px;
+  width: 1129px;
+  height: 699px;
+}
+.python {
+  top: 159.6px;
+  left: 14.9px;
+  display: inline-block;
+  width: 125.6px;
+  height: 36.8px;
+}
+.div3,
+.group-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 158.1px;
+  height: 150.4px;
+}
+.div3 {
+  top: 55px;
+  left: 46px;
+  display: inline-block;
+  width: 66px;
+  height: 44px;
+}
+.div4,
+.group-parent5,
+.python-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 158.1px;
+}
+.group-parent5 {
+  height: 150.4px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.div4,
+.python-parent {
+  height: 196.4px;
+}
+.div4 {
+  top: 57.4px;
+  left: 51.3px;
+  display: inline-block;
+  width: 68px;
+  height: 44px;
+}
+.ai-ml-parent,
+.div5 {
+  position: absolute;
+  top: 271.6px;
+  left: 9.7px;
+  width: 158.1px;
+  height: 196.4px;
+}
+.div5 {
+  top: 55px;
+  left: 50.9px;
+  display: inline-block;
+  width: 66px;
+  height: 44px;
+}
+.arduino-parent,
+.div6,
+.pcb {
+  position: absolute;
+  top: 0;
+  left: 289.1px;
+  width: 158.1px;
+  height: 196.4px;
+}
+.div6,
+.pcb {
+  top: 159.6px;
+  left: 15px;
+  display: inline-block;
+  width: 125.6px;
+  height: 36.8px;
+}
+.div6 {
+  top: 57.4px;
+  left: 55.3px;
+  width: 73px;
+  height: 44px;
+}
+.div7,
+.frontend,
+.pcb-parent {
+  position: absolute;
+  top: 271.6px;
+  left: 298.7px;
+  width: 158.1px;
+  height: 196.4px;
+}
+.div7,
+.frontend {
+  top: 160px;
+  left: 10.9px;
+  display: inline-block;
+  width: 140.6px;
+  height: 36.8px;
+}
+.div7 {
+  top: 53.5px;
+  left: 42.2px;
+  width: 98.4px;
+  height: 43.5px;
+}
+.div8,
+.frontend-parent,
+.ros2 {
+  position: absolute;
+  top: 0;
+  left: 578.1px;
+  width: 158.1px;
+  height: 196.8px;
+}
+.div8,
+.ros2 {
+  top: 159.6px;
+  left: 0;
+  display: inline-block;
+  width: 140.6px;
+  height: 36.8px;
+}
+.div8 {
+  top: 53.4px;
+  left: 50.2px;
+  width: 72px;
+  height: 43px;
+}
+.div10,
+.ros2-parent,
+.ui-parent {
+  position: absolute;
+  top: 271.6px;
+  left: 587.8px;
+  width: 158.1px;
+  height: 196.4px;
+}
+.div10,
+.ui-parent {
+  top: 0;
+  left: 867.2px;
+}
+.div10 {
+  top: 53.5px;
+  left: 42.1px;
+  display: inline-block;
+  width: 98.4px;
+  height: 43.5px;
+}
+.ar-parent,
+.group-parent4 {
+  position: absolute;
+  top: 271.6px;
+  left: 876.9px;
+  width: 158.1px;
+  height: 196.4px;
+}
+.group-parent4 {
+  top: 2170px;
+  left: 171px;
+  width: 1035px;
+  height: 468px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.personal-info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 267px;
+  height: 38px;
+}
+.aaditya-19-available-container,
+.div11,
+.first-name-age-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 161px;
+  height: 187px;
+}
+.aaditya-19-available-container,
+.div11 {
+  left: 149px;
+  width: 24px;
+}
+.aaditya-19-available-container {
+  left: 187px;
+  width: 160px;
+}
+.first-name-age-freelance-phone-parent {
+  position: absolute;
+  top: 74px;
+  left: 0;
+  width: 347px;
+  height: 187px;
+}
+.garg-indian-123-container,
+.last-name-nationality-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 133px;
+  height: 187px;
+}
+.garg-indian-123-container {
+  left: 187px;
+  width: 360px;
+}
+.dive-into-my,
+.last-name-nationality-address-parent {
+  position: absolute;
+  top: 74px;
+  left: 401px;
+  width: 547px;
+  height: 187px;
+}
+.dive-into-my {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 427px;
+  height: 85px;
+}
+.dive-into-my-portfolio-and-exp-wrapper {
+  position: absolute;
+  top: 93px;
+  left: 876px;
+  width: 427px;
+  height: 85px;
+  font-size: var(--font-size-base);
+}
+.personal-info-parent {
+  position: absolute;
+  top: 790px;
+  left: 85px;
+  width: 1303px;
+  height: 261px;
+  font-size: var(--font-size-xl);
+}
+.email1,
+.message,
+.name {
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  display: inline-block;
+  width: 153px;
+  height: 29px;
+}
+.email1,
+.message {
+  top: 102px;
+  left: 17px;
+  width: 77px;
+}
+.message {
+  top: 189px;
+  left: 14px;
+  width: 153px;
+}
+.group-child10,
+.group-child11 {
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 3px solid var(--color-white);
+  width: 425px;
+  height: 63px;
+}
+.group-child10 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+}
+.group-child11 {
+  top: 85px;
+}
+.group-child11,
+.group-child12,
+.group-child13 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+}
+.group-child12 {
+  top: 180px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 3px solid var(--color-white);
+  width: 425px;
+  height: 169px;
+}
+.group-child13 {
+  top: 369px;
+  left: 124px;
+  background-color: transparent;
+  border: 3px solid var(--color-turquoise-100);
+  width: 152px;
+  height: 53px;
+}
+.send {
+  position: absolute;
+  top: 381px;
+  left: 123px;
+  display: inline-block;
+  text-align: center;
+  width: 153px;
+  height: 29px;
+}
+.name-parent {
+  position: absolute;
+  top: 1113.3px;
+  left: 0;
+  width: 425px;
+  height: 422px;
+}
+.dont-be-shy,
+.feel-free-to-container {
+  position: absolute;
+  top: 1154.3px;
+  left: 2px;
+  display: inline-block;
+  width: 510px;
+  height: 97px;
+}
+.dont-be-shy {
+  top: 1089.3px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  width: 238px;
+  height: 38px;
+}
+.aadityagarg2022vitstudentac1,
+.mail-me {
+  position: absolute;
+  top: 1278.3px;
+  left: 66px;
+  display: inline-block;
+  width: 72px;
+  height: 18px;
+}
+.aadityagarg2022vitstudentac1 {
+  top: 1300.3px;
+  width: 270px;
+}
+.vector-icon {
+  position: absolute;
+  height: 1.58%;
+  width: 13.39%;
+  top: 0;
+  right: 86.61%;
+  bottom: 98.42%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mail-me-parent {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 336px;
+  height: 1318.3px;
+  font-size: var(--font-size-base);
+}
+.group-child14 {
+  position: absolute;
+  height: 95.26%;
+  width: 58.59%;
+  top: 4.74%;
+  right: 38.87%;
+  bottom: 0;
+  left: 2.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.feel-free-to-reach-out-if-you-parent,
+.group-parent13 {
+  position: absolute;
+  top: 0;
+  left: 678px;
+  width: 512px;
+  height: 1442.3px;
+  font-size: var(--font-size-xl);
+}
+.group-parent13 {
+  top: 1878.7px;
+  left: 122px;
+  width: 1190px;
+  height: 1535.3px;
+  font-size: var(--font-size-5xl);
+}
+.desktop-1-child {
+  position: absolute;
+  top: 3487.5px;
+  left: 112.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1213px;
+  height: 1px;
+}
+.portfolio-all-rights {
+  position: absolute;
+  top: 3536px;
+  left: 572px;
+  font-size: var(--font-size-base);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: #000606;
+  height: 3632px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
